@@ -41,4 +41,5 @@ c2++;
 c++;
 }
 putchar('\n');
-return
+return (0);
+}
